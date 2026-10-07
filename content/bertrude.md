@@ -2,12 +2,14 @@
 title: "Bertrude"
 group: "Heroes"
 type: hero
-conf: mid
+conf: hi
+short: "Bertie"
+aliases: ["Birdie", "Bertred"]
 dek: "Human telepath and disavowed agent. Level 2."
 ---
 
 > [!note] Name on the sheet
-> The character name field on the Forge Steel sheet is blank. "Bertrude" comes from the file name and the campaign notes.
+> The character name field on the Forge Steel sheet is blank. The Director calls her Bertrude at the table, and she likes to be called Bertie.
 
 ## At a Glance
 

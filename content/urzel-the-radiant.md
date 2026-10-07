@@ -4,6 +4,7 @@ group: "Heroes"
 type: hero
 conf: hi
 short: "Urzel"
+aliases: ["Urzul"]
 dek: "Orc conduit of the Life and Sun domains. Level 2."
 ---
 
@@ -27,6 +28,10 @@ dek: "Orc conduit of the Life and Sun domains. Level 2."
 ## Inciting Incident — Dogma
 
 Urzel joined a religious institution under the guidance of a kind mentor, but others in the house of worship grew increasingly fanatical. The mentor tried to be a voice of reason, and was tried as a heretic and executed. Urzel left the institution and became a hero to uphold the beliefs they hold dear.
+
+## Faith
+
+At the table Urzel calls his god a god of fire and light, and prays to a one-armed god whose name was heard as "Gruul". The spelling isn't confirmed yet.
 
 ## Languages
 

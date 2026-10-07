@@ -3,6 +3,7 @@ title: "Aurelion"
 group: "Heroes"
 type: hero
 conf: hi
+aliases: ["Aurelian", "Aurelien", "Arulian", "Rulian", "Rullian"]
 dek: "Human censor of the Paragon order, once a watch officer. Level 2."
 ---
 

@@ -3,6 +3,7 @@ title: "Malthazar"
 group: "Heroes"
 type: hero
 conf: hi
+aliases: ["Malthasar", "Malfazel", "Mothazel", "Balthazar", "Mouth Desire"]
 dek: "Dragon knight shadow of the College of Caustic Alchemy, with a criminal past. Level 2."
 ---
 

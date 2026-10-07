@@ -3,6 +3,7 @@ title: "Torr"
 group: "Heroes"
 type: hero
 conf: hi
+aliases: ["Tor"]
 dek: "High elf tactician of the Mastermind doctrine, raised among the Wode Elves. Level 2."
 ---
 

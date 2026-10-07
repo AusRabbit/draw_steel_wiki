@@ -17,3 +17,7 @@ A chase through the alleys followed, and the party escaped the Watch.
 ## The Bolt Hole
 
 The party found [[annabel-swordbuck|Annabel Swordbuck]] in a smuggler's bolt hole.
+
+## As Recalled at the Table
+
+At the start of [[session-3|Session 3]] the players remembered a few more details. [[malthazar|Malthazar]] was lost along the way during the chase. The others met [[bertrude|Bertrude]], got past a few checkpoints, and went down a storm drain into the canals, where they ran into the criminals at the hide.
