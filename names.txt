@@ -1,0 +1,15 @@
+# Canonical names only - pass to the transcriber with --names.
+# Do NOT add misspellings here; they belong in corrections.json.
+Annabel
+Annabel Swordbuck
+Ashgate Watch
+Aurelion
+Bertrude
+Broadhurst
+Malthazar
+Sanctuary
+Sanctuary City
+The Tail and Claw
+Torr
+Urzel
+Urzel the Radiant
