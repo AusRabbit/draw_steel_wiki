@@ -2,6 +2,7 @@
 title: "Torlas"
 group: "Bestiary"
 type: enemy
+image: "images/torlas.png"
 conf: hi
 aliases: ["Taulas", "Tall Ass", "Torilis"]
 dek: "Demons that turn the ground to flesh and drag their prey through it."

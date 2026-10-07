@@ -2,6 +2,7 @@
 title: "Pitling"
 group: "Bestiary"
 type: enemy
+image: "images/pitling.png"
 conf: hi
 aliases: []
 dek: "Stinking little demons with many tongues, spitting acid."

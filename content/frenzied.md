@@ -2,6 +2,7 @@
 title: "Frenzied"
 group: "Bestiary"
 type: enemy
+image: "images/frenzied.png"
 conf: hi
 aliases: []
 dek: "Fast demons with huge claws and many teeth."

@@ -2,6 +2,7 @@
 title: "Fiktin"
 group: "Bestiary"
 type: enemy
+image: "images/fiktin.png"
 conf: hi
 aliases: ["Fitkin", "Fitkins", "Ficton", "Fictons", "Ficken", "Fickens"]
 dek: "Humanoid demons of dripping, oily blood that disguise themselves as objects."

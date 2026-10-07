@@ -2,6 +2,7 @@
 title: "Ruinant"
 group: "Bestiary"
 type: enemy
+image: "images/ruinant.png"
 conf: hi
 aliases: ["Runant"]
 dek: "Demon captains. Each pack has one."

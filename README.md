@@ -47,6 +47,7 @@ conf: hi                   # hi | mid | lo — how confident we are
 short: "Annabel"           # optional: the form people actually say
 aliases: ["Annabelle"]     # other spellings that should resolve here
 dek: "One line under the title."
+image: "images/annabel.png"  # optional portrait, stored in content/images/
 ---
 ```
 

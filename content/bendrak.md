@@ -2,7 +2,8 @@
 title: "Bendrak"
 group: "Bestiary"
 type: enemy
-conf: lo
+image: "images/bendrak.png"
+conf: hi
 aliases: ["Bendrax", "Bend Rack", "Bendrac", "Bandrack", "Bendrag", "Bendrick"]
 dek: "A demon like a horse with a strange head, gems floating around its body."
 ---

@@ -12,6 +12,7 @@ import html
 import json
 import pathlib
 import re
+import shutil
 import sys
 from datetime import date
 
@@ -247,6 +248,7 @@ def build():
             "confLabel": CONF_LABEL.get(p.get("conf", ""), ""),
             "player": p.get("player", ""),
             "aliases": p["aliases"],
+            "image": p.get("image", ""),
             "html": p["html"],
             "backlinks": sorted(backlinks[p["id"]], key=lambda i: by_id[i]["title"]),
             "search": " ".join([p["title"]] + p["aliases"] + [p.get("dek", "")]).lower(),
@@ -260,6 +262,19 @@ def build():
             .replace("__BUILT__", date.today().isoformat()))
 
     OUT.mkdir(exist_ok=True)
+
+    # Portraits live beside the vault in content/images/ (so Obsidian shows
+    # them too) and are copied into docs/ for the published site.
+    for p in pages:
+        img = p.get("image")
+        if not img:
+            continue
+        src = CONTENT / img
+        if not src.is_file():
+            sys.exit("%s.md points at image %s, which doesn't exist" % (p["id"], img))
+        dest = OUT / img
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(src, dest)
     (OUT / "index.html").write_text(page, encoding="utf-8")
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
 
