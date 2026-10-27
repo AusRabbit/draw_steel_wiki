@@ -1,5 +1,6 @@
 # Canonical names only - pass to the transcriber with --names.
 # Do NOT add misspellings here; they belong in corrections.json.
+Amulet of the Delian Order
 Annabel
 Annabel Swordbuck
 Ashgate Watch
@@ -7,10 +8,16 @@ Aurelion
 Bendrak
 Bertie
 Bertrude
+Bloodbound Band
 Broadhurst
+Cup of Iulius
+Delian Knight Commander’s Ring
 Demons
 Fiktin
+Foesense Lenses
 Frenzied
+Healing Potion
+Heelcutter
 Malthazar
 Mawblade
 Pitling
@@ -22,5 +29,6 @@ The Mawblade
 The Tail and Claw
 Torlas
 Torr
+Unblinking Candle
 Urzel
 Urzel the Radiant
