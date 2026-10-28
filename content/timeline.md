@@ -43,3 +43,26 @@ dek: "Session beats in order."
 - `02:00` **The fiktins fall** — They fight to the death.
 - `02:01` **The Mawblade** — A black iron blade lined with ivory teeth, set apart from the bodies.
 - `02:02` **The truth** — Sanctuary City is under assault by demons.
+
+## Session 4
+
+- `00:13` **Holding the door** — [[torr|Torr]] and [[bertrude|Bertrude]] talk the guard out of [[annabel-swordbuck|Annabel]]'s hide without a fight.
+- `00:16` **Back at the Tail and Claw** — The others return from the sewers, filthy and stinking, to [[the-tail-and-claw|the Tail and Claw]].
+- `00:19` **Top shelf** — Annabel drinks to forget what she saw below.
+- `00:22` **Hugh's patron** — Annabel says [[hugh|Hugh]] has friends in the highest places.
+- `00:23` **Scouting** — Annabel and [[malthazar|Malthazar]] head out; the rest must reach the [[economic-council|Economic Council]].
+- `00:30` **The churches burn** — Hooded figures attack holy sites across the city overnight.
+- `00:31` **The one honest man** — Torr's bribe meets the only straight bureaucrat in the city.
+- `00:34` **Tailing the bureaucrat** — [[urzel-the-radiant|Urzel]] uncovers his chain of command.
+- `00:36` **The dice den** — [[aurelion|Aurelion]] wins a wager and the council's schedule.
+- `00:44` **"Gruul the One-Handed"** — A pious guardsman escorts Urzel into [[the-commerce-hall|the Commerce Hall]].
+- `00:50` **Big-time players** — Aurelion talks his way to the inner sanctum.
+- `00:56` **The council** — [[idra-voss|Idra Voss]], [[brannoch-hale|Brannoch Hale]], [[lucan-fairweather|Lucan Fairweather]] and [[orsolya-venn|Orsolya Venn]].
+- `00:59` **A hiccup** — Lucan flinches at Hugh's name.
+- `01:02` **Creatures in the sewers** — Idra clears the room.
+- `01:04` **The Mawblade drawn** — [[the-mawblade|The Mawblade]] makes Brannoch reach for his weapon.
+- `01:09` **"Or you are a fool"** — Urzel confronts the Lord Warden.
+- `01:11` **The statue** — Idra's statue in [[grain-square|Grain Square]] reveals her vanity.
+- `01:14` **"I signed a deal with a demon"** — Idra confesses her bargain with [[harkonics|Harkonics]].
+- `01:15` **Who is Hugh?** — Idra presses Lucan to explain.
+- `01:16` **The shadow comes loose** — Orsolya interrupts and begins to chant a spell.

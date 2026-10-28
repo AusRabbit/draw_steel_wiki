@@ -31,7 +31,7 @@ Urzel joined a religious institution under the guidance of a kind mentor, but ot
 
 ## Faith
 
-At the table Urzel calls his god a god of fire and light, and prays to a one-armed god whose name was heard as "Gruul". The spelling isn't confirmed yet.
+At the table Urzel calls his god a god of fire and light, and prays to a one-armed god. In Session 4 he called him "Gruul, the One-Handed" at the council's gate, and "Gorr" when boasting at the Tail and Claw. The Director says "Groll". The spelling isn't confirmed yet. His god cares for blood and passion, and wants death.
 
 ## Languages
 
