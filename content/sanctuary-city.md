@@ -21,7 +21,7 @@ Sanctuary City is ruled by the [[economic-council|Economic Council]] from [[the-
 
 ## The Truth of It
 
-In [[session-4|Session 4]], Idra Voss confessed to the party in private that she signed a deal with a demon, [[harkonics|Harkonics]], seasons ago to save the city from ruin and starvation. The demon has proved insatiable. She can't admit it in public.
+In [[session-4|Session 4]], Idra Voss confessed to the party in private that she signed a deal with a demon, [[harkonex|Harkonex]], seasons ago to save the city from ruin and starvation. The demon has proved insatiable. She can't admit it in public.
 
 ## The City on Fire
 

@@ -20,4 +20,4 @@ Reaching them means getting through layer after layer of bureaucracy. In [[sessi
 
 ## The Secret
 
-Idra Voss told the party that she signed a deal with a demon, [[harkonics|Harkonics]], to save the city from ruin and starvation. That deal is the source of the [[demons]] in the sewers. Brannoch tried to stop her saying so.
+Idra Voss told the party that she signed a deal with a demon, [[harkonex|Harkonex]], to save the city from ruin and starvation. That deal is the source of the [[demons]] in the sewers. Brannoch tried to stop her saying so.

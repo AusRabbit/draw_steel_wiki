@@ -21,7 +21,7 @@ The party found three things she cares about:
 
 ## The Bargain
 
-Under pressure, she confessed to the party what she can never confess in public: many moons ago she signed a deal with a demon. Seasons ago, it seemed a trifling price to save the city from ruin and starvation. Now the demon, [[harkonics|Harkonics]], has proved insatiable and the infestation is getting out of hand. Keeping it secret is part of the bargain.
+Under pressure, she confessed to the party what she can never confess in public: many moons ago she signed a deal with a demon. Seasons ago, it seemed a trifling price to save the city from ruin and starvation. Now the demon, [[harkonex|Harkonex]], has proved insatiable and the infestation is getting out of hand. Keeping it secret is part of the bargain.
 
 She told the heroes they should never have been hunted through the streets like dogs, asked their forgiveness, and asked for their help to save the city.
 

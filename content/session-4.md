@@ -71,7 +71,7 @@ The theatrics were over. Idra sat down, made Brannoch sit as well, and took a fe
 
 At the word *demon*, the candlelit room went dark and a breath of wind pushed through it.
 
-She can never confess it in public; that is part of the bargain. Seasons ago, what seemed like a trifling deal saved the city from ruin and starvation. Now the demon, [[harkonics|Harkonics]], has proved insatiable, and it's getting out of hand. She admitted they should never have hunted the heroes through the streets like dogs. She asked their forgiveness and their help to save the city before it dies.
+She can never confess it in public; that is part of the bargain. Seasons ago, what seemed like a trifling deal saved the city from ruin and starvation. Now the demon, [[harkonex|Harkonex]], has proved insatiable, and it's getting out of hand. She admitted they should never have hunted the heroes through the streets like dogs. She asked their forgiveness and their help to save the city before it dies.
 
 ## The Shadow in the Room
 

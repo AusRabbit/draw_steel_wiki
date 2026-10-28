@@ -15,7 +15,7 @@ As [[lucan-fairweather|Lucan Fairweather]] began to explain who [[hugh|Hugh]] is
 ### Idra Voss's bargain
 `hot` Confessed
 
-[[idra-voss|High Chancellor Idra Voss]] admitted in private that she signed a deal with a demon, [[harkonics|Harkonics]], to save [[sanctuary-city|Sanctuary City]] from ruin and starvation. The demon is insatiable and the infestation is getting out of hand. She can't confess it in public, and she has asked for the heroes' help.
+[[idra-voss|High Chancellor Idra Voss]] admitted in private that she signed a deal with a demon, [[harkonex|Harkonex]], to save [[sanctuary-city|Sanctuary City]] from ruin and starvation. The demon is insatiable and the infestation is getting out of hand. She can't confess it in public, and she has asked for the heroes' help.
 
 ### Where is Hugh?
 `hot` Lucan knows something
@@ -35,7 +35,7 @@ In [[the-cistern|the Cistern]], an enormous mound of corpses was being prepared 
 ### Who commands the demons?
 `open` Partly answered
 
-A voice from the centre of the Cistern ordered the [[demons]] to "finish these fools". Idra Voss's deal with Harkonics explains why the demons are here, but not whose voice that was.
+A voice from the centre of the Cistern ordered the [[demons]] to "finish these fools". Idra Voss's deal with Harkonex explains why the demons are here, but not whose voice that was.
 
 ### The Mawblade
 `open` Recognised

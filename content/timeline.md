@@ -63,6 +63,6 @@ dek: "Session beats in order."
 - `01:04` **The Mawblade drawn** — [[the-mawblade|The Mawblade]] makes Brannoch reach for his weapon.
 - `01:09` **"Or you are a fool"** — Urzel confronts the Lord Warden.
 - `01:11` **The statue** — Idra's statue in [[grain-square|Grain Square]] reveals her vanity.
-- `01:14` **"I signed a deal with a demon"** — Idra confesses her bargain with [[harkonics|Harkonics]].
+- `01:14` **"I signed a deal with a demon"** — Idra confesses her bargain with [[harkonex|Harkonex]].
 - `01:15` **Who is Hugh?** — Idra presses Lucan to explain.
 - `01:16` **The shadow comes loose** — Orsolya interrupts and begins to chant a spell.

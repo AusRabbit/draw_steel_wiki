@@ -16,7 +16,7 @@ The party escaped the Watch, found [[annabel-swordbuck|Annabel Swordbuck]]'s smu
 
 Reunited at [[the-tail-and-claw|the Tail and Claw]], the party learned from Annabel that their friend [[hugh|Hugh]] has a patron in the highest places in the city. She went scouting with [[malthazar|Malthazar]] and sent the others to the [[economic-council|Economic Council]], which rules Sanctuary City. The city woke to churches and holy sites burning, attacked overnight by hooded figures.
 
-[[aurelion|Aurelion]], Torr and Urzel talked, gambled and prayed their way into [[the-commerce-hall|the Commerce Hall]] and won an audience with the council. There [[idra-voss|High Chancellor Idra Voss]] confessed that she signed a deal with a demon, [[harkonics|Harkonics]], to save the city from ruin and starvation, and that it is now out of control. She asked for the heroes' help.
+[[aurelion|Aurelion]], Torr and Urzel talked, gambled and prayed their way into [[the-commerce-hall|the Commerce Hall]] and won an audience with the council. There [[idra-voss|High Chancellor Idra Voss]] confessed that she signed a deal with a demon, [[harkonex|Harkonex]], to save the city from ruin and starvation, and that it is now out of control. She asked for the heroes' help.
 
 When she pressed [[lucan-fairweather|Lucan Fairweather]] about Hugh, [[orsolya-venn|Orsolya Venn]], Prelate of [[the-gilded-scale|the Gilded Scale]], cut him off. Wind tore through the chamber, her shadow came loose and fragmented across the room, and she began to chant a spell. Session 4 ended on the edge of a fight.
 

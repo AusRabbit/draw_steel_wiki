@@ -15,7 +15,7 @@ Sanctuary City is under assault by demons. That is why no one goes into the sewe
 - They are weak to holy damage.
 - A demon that is badly hurt fights more desperately, and becomes easier to hit.
 - They answered to a voice from the centre of the cistern, which ordered them to "finish these fools".
-- They are in the city because of a bargain. [[idra-voss|High Chancellor Idra Voss]] signed a deal with a demon, [[harkonics|Harkonics]], to save the city from ruin and starvation. It has proved insatiable.
+- They are in the city because of a bargain. [[idra-voss|High Chancellor Idra Voss]] signed a deal with a demon, [[harkonex|Harkonex]], to save the city from ruin and starvation. It has proved insatiable.
 
 ## Kinds Encountered
 
